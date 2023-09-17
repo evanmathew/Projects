@@ -27,4 +27,8 @@ Tools
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
     - [LinkedIn][(https://www.linkedin.com/in/evansajumathew)]
+      <p align="left">
+      <a href="https://linkedin.com/in/evansajumathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evansajumathew" height="30" width="40" /></a>
+      <a href="https://kaggle.com/evansajumathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evansajumathew" height="30" width="40" /></a>
+      </p>
   
