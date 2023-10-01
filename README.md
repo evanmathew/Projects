@@ -4,6 +4,8 @@ Repository containing portfolio of data science projects completed for academic,
 Tools
   - **Python**: NumPy, Pandas, Seaborn, Matplotlib
   - **Machine Learning**: Linear and Logistic Regression
+  - **Database Management**: MySQL, Excel
+  - **Data Visualization Tools**: Tableau, Microsoft PowerBi, Microsoft Excel
 
 ## Contents
 - ## 🤖🧠 Machine Learning
