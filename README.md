@@ -7,7 +7,7 @@ Tools
 
 ## Contents
 - ## 🤖🧠 Machine Learning
-    - [Heart Failure Analysis & Prediction Using Logistic Regression Model](https://github.com/evanmathew/Projects/tree/main/Machine%20Learning%20Model/Heart%20Failure%20Analysis%20%26%20Prediction%20Using%20Logistic%20Regression%20Model): I leveraged my data analysis and machine learning skills to conduct a comprehensive study on heart failure prediction using logistic regression. Heart failure is a critical health concern, and early detection can significantly improve patient outcomes. By applying data science techniques to a large dataset of patient records, I aimed to develop an accurate predictive model.
+    - [Heart Failure Analysis & Prediction Using Logistic Regression Model](https://github.com/evanmathew/Projects/tree/main/Machine%20Learning%20Model/Heart%20Failure%20Analysis%20%26%20Prediction%20Model): I leveraged my data analysis and machine learning skills to conduct a comprehensive study on heart failure prediction using logistic regression. Heart failure is a critical health concern, and early detection can significantly improve patient outcomes. By applying data science techniques to a large dataset of patient records, I aimed to develop an accurate predictive model.
     - [New incmoming]
     
 - ## 📊 Data Analysis and Visualization (Python Programming)
