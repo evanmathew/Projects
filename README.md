@@ -2,8 +2,8 @@
 Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 Tools
-  - **Python**: NumPy, Pandas, Seaborn, Matplotlib
-  - **Machine Learning**: Linear and Logistic Regression
+  - **Python**: NumPy, Pandas, Seaborn, Matplotlib, Plotly, OOPS, Sklearn
+  - **Machine Learning**: Linear and Logistic Regression, Random Forest Classification, Decission Tree
   - **Database Management**: MySQL, Excel
   - **Data Visualization Tools**: Tableau, Microsoft PowerBi, Microsoft Excel
 
