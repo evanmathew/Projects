@@ -10,6 +10,7 @@ Tools
 ## Contents
 - ## 🤖🧠 Machine Learning
     - [Heart Failure Analysis & Prediction Using Logistic Regression Model](https://github.com/evanmathew/Projects/tree/main/Machine%20Learning%20Model/Heart%20Failure%20Analysis%20%26%20Prediction%20Model): I leveraged my data analysis and machine learning skills to conduct a comprehensive study on heart failure prediction using logistic regression. Heart failure is a critical health concern, and early detection can significantly improve patient outcomes. By applying data science techniques to a large dataset of patient records, I aimed to develop an accurate predictive model.
+    - [Titanic Survival Analysis & Classification ML Model](https://github.com/evanmathew/Projects/tree/main/Machine%20Learning%20Model/Titanic%20Survival%20Anlaysis%20and%20Prediction%20ML%20Model): Explore the Titanic Survival Prediction project, where I dive into data analysis and machine learning. As a beginner in data science, I've analyzed the Titanic dataset to uncover insights into passenger demographics and survival factors. I've built predictive models using various machine learning algorithms, including Logistic Regression, Random Forest, Decision Tree, and more. I competed in the Kaggle competition and learned valuable skills in feature engineering and model evaluation. Join me on this exciting data-driven journey!!
     - [New incmoming]
     
 - ## 📊 Data Analysis and Visualization (Python Programming)
