@@ -5,13 +5,13 @@ This GitHub repository contains the source code, data, and documentation for the
 
 This project consists of the following key files:
 
-- **1) HR Data Dashboard (Power BI File):**
+- **HR Data Dashboard (Power BI File):**
    - The Power BI file contains the dashboard with all the visualizations and data transformations. You can explore the data and insights by opening this file using Power BI.
 
-- **2) Excel Data:**
+- **Excel Data:**
    - The Excel file serves as the source of HR attendance data. It includes the records and marks for employee attendance. This data was used for the development of the dashboard.
 
-- **3) Customized Theme PNG file**
+- **Customized Theme PNG file**
    - The PNG file is where the customized theme and template for the dashboard were designed from Figma. The theme was created to ensure a visually appealing and user-friendly interface.
 
 ## Problem Statement
