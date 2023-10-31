@@ -25,7 +25,9 @@ Tools
     - [Scrapping Wikipedia content through Google search](https://github.com/evanmathew/Projects/tree/main/Web%20Scraping/Wikepedia%20Data%20Scraping%20Using%20Google%20Search): The primary objective of this project is to develop a Python script that can scrape relevant Wikipedia content through Google search queries. This project aims to demonstrate web scraping, data manipulation using Python.
     - [Stock Image Data Scraping](https://github.com/evanmathew/Projects/tree/main/Web%20Scraping/Stock%20Image%20Web%20Scraping): This project was just an exercise to gather information about images, including the number of likes, comments, image URLs, and unique image IDs, enabling more informed content selection and analysis
 
-     
+ - ## 🔌📈 Power-Bi Dashboard
+    - [Employee Presence HR Data Analysis](https://github.com/evanmathew/Projects/tree/main/Power-Bi%20Dashboard%20Projects/Employee%20Presence%20HR%20Data%20Analysis): Leveraging real data from Atliq Technology, this tool optimizes project timelines and office space usage. I also had the opportunity to enhance my Power BI skills with Data Analysis Expressions (DAX)
+   
 - ## Minor Projects
     - [Covid -19 Tableau Dashboard](https://public.tableau.com/app/profile/evan.mathew/viz/Covid-19Analysis_16911460556740/Dashboard)
     - [SuperStore Sales Anaylsis Tableau Dashboard](https://public.tableau.com/app/profile/evan.mathew/viz/SuperStoreSalesAnaylsisDashboard/Dashboard1)
